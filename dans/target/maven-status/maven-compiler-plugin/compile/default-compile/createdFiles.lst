@@ -1,7 +1,0 @@
-pasca/test/dans/controller/UserController.class
-pasca/test/dans/service/UserService.class
-pasca/test/dans/service/JobService.class
-pasca/test/dans/DansApplication.class
-pasca/test/dans/dao/UserMongoRepository.class
-pasca/test/dans/entity/User.class
-pasca/test/dans/controller/JobController.class
